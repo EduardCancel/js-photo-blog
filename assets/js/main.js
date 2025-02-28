@@ -18,7 +18,7 @@ fetch(imageUrl)
         "beforeend",
         `
         <div class="col-12 col-md-6 col-lg-4 mb-3">
-                        <div class="card p-4 m-auto">
+                        <div class="card p-4 mb-5 m-auto">
                             <img src="./assets/assets_day1/img/pin.svg"
                                 class="position-absolute top-0 start-50 translate-middle"
                                 alt>
