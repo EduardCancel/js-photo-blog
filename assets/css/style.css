@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Edu+TAS+Beginner:wght@400..700&display=swap');
+
+h1 {
+
+    font-family: 'edu tas beginner', sans-serif;
+    font-size: 80px;
+
+}
+
+header {
+    background-image: url(../assets_day1/img/wall.png);
+    height: 150px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
