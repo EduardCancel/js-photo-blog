@@ -14,3 +14,8 @@ header {
     align-items: center;
     justify-content: center;
 }
+
+body {
+    background-image: url(../assets_day1/img/cork.png);
+    height: 900px;
+}
