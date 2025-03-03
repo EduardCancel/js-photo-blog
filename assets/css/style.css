@@ -59,13 +59,13 @@ body {
     top: 10px;  
     left: 50%;  
     z-index: 100;
-    background-color: rgba(255, 255, 255, 0.7); 
+    background-color: red;
     border: none;
     padding: 10px 20px;
     font-size: 16px;
     cursor: pointer;
 }
 
-#close-btn:hover {
+ #close-btn:hover {
     background-color: rgba(255, 255, 255, 0.9);
-}
+} 
