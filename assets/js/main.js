@@ -34,15 +34,3 @@ fetch(imageUrl)
     });
 })
 .catch((error) => console.error(error));
-
-
-// overlay function
-
-function overlayOn () {
-    document.getElementById("overlay-ds").style.display = "block";
-}
-
-
-function overlayOff () {
-    document.getElementById("overlay-ds").style.display = "d-none";
-}
