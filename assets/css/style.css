@@ -51,19 +51,17 @@ body {
 }
 
 .overlay-img {
-    width: 100%;
-    max-height: 100%;
-    max-width: 100%;
+    width: 40%;
+    display: block;
+    margin: 0 auto;
 }
 
 #close-btn {
-    position: absolute;
-    top: -50px;
-    left: 50%;
+    margin-bottom: 3rem;
     background-color: red;
     border: none;
-    padding: 5px 10px;
-    font-size: 20px;
+    padding: 15px 25px;
+    font-size: 25px;
     cursor: pointer;
 }
 
