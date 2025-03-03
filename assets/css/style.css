@@ -31,6 +31,7 @@ body {
 
 /* Overlay  */
 .overlay-ds {
+    display: flex;
     display: none;
     position: fixed;
     width: 100%;
@@ -43,7 +44,7 @@ body {
     z-index: 2;
     justify-content: center;
     align-items: center;
-    text-align: center;
+    text-align: center; 
 }
 
 .overlay-content {
